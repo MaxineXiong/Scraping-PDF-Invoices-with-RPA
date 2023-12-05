@@ -7,12 +7,13 @@
 
 <br/>
 
-This repository houses an automation solution that harnesses the power of **[UiPath Automation Platform](https://www.uipath.com/)** to effortlessly **scrape data**, including *Company Name, Invoice Number, Date, Customer ID, Payment Terms*, and *Total Amount*, from a substantial batch of **1000 invoices issued to different customers**. The extracted data is then intelligently compiled and stored in the **invoices_data.xlsx** Excel file, offering a streamlined alternative to the laborious and time-consuming task of manually collecting and entering data from these invoices. Remarkably, this RPA robot completes the process in just **around 130 minutes**, achieving nearly **100% accuracy**, a feat that would otherwise consume days of human effort.
+This repository houses an automation solution that harnesses the power of **[UiPath Automation Platform](https://www.uipath.com/)** to effortlessly **scrape data**, including *Company Name, Invoice Number, Date, Customer ID, Payment Terms*, and *Total Amount*, from a substantial batch of **1000 invoices issued to different customers**. The extracted data is then intelligently compiled and stored in the **invoices_data.xlsx** Excel file, offering a streamlined alternative to the laborious and time-consuming task of manually collecting and entering data from these invoices. Additionally, the RPA solution categorizes the successfully and unsuccessfully scraped invoices into separate folders. Impressively, this RPA robot completes the entire process in just **approximately 130 minutes**, achieving nearly **100% accuracy**, a task that would otherwise require days of human effort.
+
+This repository includes solutions created using both **Classic Design** and **Modern Design** in UiPath Studio. _You can check out the **automation demo video** below_:
 
 
-_You can check out the **automation demo video** below_:
+https://github.com/MaxineXiong/Scraping-PDF-Invoices-with-RPA/assets/55864839/25ec1db4-d02c-4ff1-8dfa-7f68e3002ecb
 
-https://github.com/MaxineXiong/Scraping-PDF-Invoices/assets/55864839/6ce6b007-0584-4828-aeb6-b9d910724bc7
 
 <br/>
 
